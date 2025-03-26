@@ -1,4 +1,4 @@
-# 🔐 Nikhil Shakya | Cybersecurity Professional  
+# 🔐 Nikhil  | Cybersecurity Professional  
 
 ### Ethical Hacker | Penetration Tester | Security Analyst  
 
