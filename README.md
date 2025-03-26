@@ -1,6 +1,6 @@
 # 🔐 Nikhil  | Cybersecurity Professional  
 
-### Ethical Hacker | Penetration Tester | Security Analyst  
+### Ethical Hacker | Penetration Tester | Security Analyst 
 
 Welcome to my GitHub! I am a **cybersecurity professional** with expertise in **penetration testing, vulnerability assessment, and ethical hacking**. I specialize in identifying security flaws, strengthening system defenses, and ensuring the safety of digital infrastructures.  
 
