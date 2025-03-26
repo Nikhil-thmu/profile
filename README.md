@@ -1,4 +1,4 @@
-# 🔐 Nikhil  | Cybersecurity Professional  
+#  Nikhil  | Cybersecurity Professional  
 
 ### Ethical Hacker | Penetration Tester | Security Analyst 
 
@@ -17,4 +17,4 @@ I am passionate about **threat hunting, security research, and red teaming**, co
 🔗 **LinkedIn:** [Nikhil Shakya](https://www.linkedin.com/in/nikhil-shakya-68646625b/)  
 📸 **Instagram:** [@megatronishacker](https://www.instagram.com/megatronishacker/)  
 
-Let’s secure the digital world together! 🚀  
+Let’s secure the digital world together!   
